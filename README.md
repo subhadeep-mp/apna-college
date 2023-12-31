@@ -1,1 +1,5 @@
-# apnacollege demo
+# apnacollege_demo
+this is my first Git Repository.
+Author- sudip
+
+
